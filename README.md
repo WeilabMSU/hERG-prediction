@@ -56,7 +56,7 @@ The input for our feature generation model is *.smi file, which stores molecules
 cd hERG_prediction
 python generation-prediction.py --path-to-smi example.smi
 ```
-The generated featurs are saved in the folder "features", and the prediction results are saved in the folder "results". The prediction file contains two columns including "block type" and "blocker probability". The column "block type" has two labels, i.e. 0 (non-blocker) and 1 (blocker). The column "blocker probability" indicates the probability to be blockers according to our predictions. The threshold for hERG blocler/non-blocker is IC50=10uM
+The generated featurs are saved in the folder "features", and the prediction results are saved in the folder "results". The prediction file contains two columns including "block type" and "blocker probability". The column "block type" has two labels, i.e. 0 (non-blocker) and 1 (blocker). The column "blocker probability" indicates the probability to be blockers according to our predictions. The threshold for hERG blocler/non-blocker is IC50=10uM.
 
 
 ## Reference
