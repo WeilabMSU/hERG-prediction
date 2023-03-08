@@ -1,7 +1,7 @@
 # Virtual screening of DrugBank database for hERG blockers using topological Laplacian-assisted AI models
 
 ---
-This script is for the paper "Virtual screening of DrugBank database for hERG blockers using topological Laplacian-assisted AI models". With the script, machine-learning classification model based on natural language processing (NPL) method can be used to predict molecular compound's liability on the hERG potassium channel. 
+This script is for the paper "Virtual screening of DrugBank database for hERG blockers using topological Laplacian-assisted AI models". With the script, machine-learning classification model based on natural language processing (NLP) method can be used to predict molecular compound's liability on the hERG potassium channel. 
 
 ## Requirements
 
