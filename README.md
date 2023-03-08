@@ -29,7 +29,7 @@ git clone https://github.com/WeilabMSU/hERG_prediction.git
 ```
 ## Install the pretrained model for feature generation
 
-The feature generation follows the work "Extracting Predictive Representations from Hundreds of Millions of Molecules" by Dong Chen, Jiaxin Zheng, Guo-Wei Wei+ and Feng Pan." The pretrained model in their work was built based on transformer NPL techniques and is utilized to generate molecular features here.
+The feature generation follows the work "Extracting Predictive Representations from Hundreds of Millions of Molecules" by Dong Chen, Jiaxin Zheng, Guo-Wei Wei, and Feng Pan." The pretrained model in their work was built based on transformer NPL techniques and is utilized to generate molecular features here.
 
 Download and install the pretrained model under the downloaded hERG_prediction folder.
 
